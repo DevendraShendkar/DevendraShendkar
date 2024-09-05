@@ -3,7 +3,7 @@
 
 - 🔭 I’m passionate about **developing innovative solutions in Android and AI/ML.**
 
-- 🌱 **I’m always eager to explore new technologies, frameworks, and tools**
+- 🌱 I’m always eager to **explore new technologies, frameworks, and tools**
 
 - 📫 How to reach me **devendrashendkar2002@gmail.com**
 
