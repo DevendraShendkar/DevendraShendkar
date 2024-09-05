@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Devendra Shendkar</h1>
 <h3 align="center">Full Stack Android Developer | AI/ML Engineer</h3>
 
+- 🔭 I’m passionate about **developing innovative solutions in Android and AI/ML.**
+
+- 🌱 **I’m always eager to explore new technologies, frameworks, and tools**
+
 - 📫 How to reach me **devendrashendkar2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
